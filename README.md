@@ -17,7 +17,7 @@
 I am Computer Engineering student at Ramrao Adik Institute Of Technology, Mumbai.<br/>
 I am interested in learning Data Science and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="" width="400" height="280" />
+<!-- <img align="right" alt="GIF" src="" width="400" height="280" /> -->
 
 - 🔭 Full Stack Web Developer
 - 🌈 Graphic designer
