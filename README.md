@@ -1,7 +1,7 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://c.tenor.com/qbY1rXMK7NQAAAAj/saramaese-cute.gif" width="150" height="120" />
 <p>
-  <h1 align="center"><b>Hello there, I'm Kshitija 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm <a href="https://kshitija-2001.github.io/portfolio/">Kshitija</a> 👋</b></h1>
 </p>
 
 <p>
